@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: aaaf8fa9afcfcc241a3c5b240c659481
+timeCreated: 1509911341
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jack Frost
+  fontNames:
+  - Jack Frost
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
